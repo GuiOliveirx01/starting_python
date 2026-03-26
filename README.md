@@ -6,7 +6,7 @@ Repositório criado para acompanhar meus estudos com o livro **Curso Intensivo d
 
 - Capítulo 1 → Iniciando
 - Capítulo 2 → Variáveis e dados simples
-- Capítulo 3 → Condicionais
+- Capítulo 3 → Introdução as listas
 
 ## 🎯 Objetivo
 
